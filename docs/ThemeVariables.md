@@ -646,7 +646,7 @@ Cheatsheet use values from `native-base-theme/variables/platform.js`
             <td>#3F51B5</td>
         </tr>
         <tr>
-            <td>iosStatusbar</td>
+            <td>iosBarStyle</td>
             <td>string</td>
             <td>Theme of iOS status bar</td>
             <td>dark-content</td>
